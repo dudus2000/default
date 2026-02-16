@@ -569,7 +569,6 @@
   "DTekNO/ha-entur_sx",
   "DTekNO/norway_alerts",
   "dudanov/hassio-ftms",
-  "dudus2000/ha-evotech-iot",
   "duhow/hass-aigues-barcelona",
   "duhow/hass-cover-time-based",
   "dummylabs/thewatchman",
@@ -2057,5 +2056,6 @@
   "zubir2k/homeassistant-esolattakwim",
   "zulufoxtrot/ha-zyxel",
   "zupancicmarko/JellyHA",
-  "Zwer2k/ha-pca301"
+  "Zwer2k/ha-pca301",
+  "dudus2000/ha-evotech-iot"
 ]
